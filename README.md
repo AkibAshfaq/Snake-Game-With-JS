@@ -10,8 +10,11 @@
 
 ## Demo
 
+## Demo
+
 Check out the live demo here:  
-[![Play Snake Game](https://akibashfaq.github.io/Snake-Game-With-JS/)
+
+[▶️ Play Snake Game](https://akibashfaq.github.io/Snake-Game-With-JS/)  
 
 ## Description
 
